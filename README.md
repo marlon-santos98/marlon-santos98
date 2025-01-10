@@ -6,7 +6,9 @@
 
 ###
 
-<p align="left">- Web Developer<br>- Student of Software engineering</p>
+<p align="left">I am a junior fullstack software developer, passionate about optimizing website performance and usability, as well as implementing solutions that make a real difference for businesses. Recently, I faced the challenge of creating an RPA to automate a time-consuming manual task, increasing team efficiency and productivity. 
+
+Currently, I am studying Software Engineering, where I continue to refine my technical skills and ability to create innovative solutions. I am looking for new opportunities to apply my expertise in development and automation, contributing to the growth of companies</p>
 
 ###
 

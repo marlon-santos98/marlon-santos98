@@ -6,9 +6,11 @@
 
 ###
 
-<p align="left">I am a junior fullstack software developer, passionate about optimizing website performance and usability, as well as implementing solutions that make a real difference for businesses. Recently, I faced the challenge of creating an RPA to automate a time-consuming manual task, increasing team efficiency and productivity. 
+<p align="left">I’m a junior fullstack software developer, passionate about optimizing performance and usability, and creating solutions that positively impact businesses. With a portfolio of personal projects and hands-on experience in developing RPAs to automate tasks, I’m always looking for new challenges and opportunities to expand my knowledge.
 
-Currently, I am studying Software Engineering, where I continue to refine my technical skills and ability to create innovative solutions. I am looking for new opportunities to apply my expertise in development and automation, contributing to the growth of companies</p>
+I’m currently studying Software Engineering, where I deepen my technical skills and problem-solving abilities. Although I haven’t yet formally entered the job market, I’m available for volunteer positions to gain practical experience and contribute to real projects.
+
+I’m passionate about learning, and I believe technology is a powerful tool to turn ideas into innovative solutions. I’m committed to growing professionally and making a difference in the world of software development.</p>
 
 ###
 
